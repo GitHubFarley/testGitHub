@@ -6,7 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <form action="" method="post">
+        <label for="">Contacto</label>
+        <input type="text" name="" id="">
+        <button type="submit">Save</button>
+    </form>
 </body>
 </html>
 >>>>>>> addchange
